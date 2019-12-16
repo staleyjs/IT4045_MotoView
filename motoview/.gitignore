@@ -102,4 +102,8 @@ local.properties
 
 .sts4-cache/
 
+maven-wrapper.jar
+maven-wrapper*
+mvnw*
+
 # End of https://www.gitignore.io/api/eclipse
